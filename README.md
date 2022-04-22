@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardirannu
-- 👀 I’m interested in Backend Developer (PHP, Laravel, Node JS)
+- 👀 I’m interested in Backend Developer (PHP, Laravel)
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on PT. Synergy Utility Network
 - 📫 How to reach me : ardiantorannu@gmail.com Whatsapp : 085824103510
