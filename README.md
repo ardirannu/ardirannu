@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ardirannu
+- 👋 Hi, I’m Ardianto Rannu
 - 👀 I’m interested in Backend Developer (PHP, Laravel)
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on PT. Synergy Utility Network
