@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardianto Rannu
 - 👀 I'm a Backend Developer (PHP, Laravel)
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang, Microservices Architecture
 - 💞️ I’m looking to collaborate on PT. Synergy Utility Network
 - 📫 How to reach me : ardiantorannu@gmail.com
 
