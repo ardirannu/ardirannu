@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardianto Rannu
 - 👀 I'm a Backend Developer (PHP, Laravel)
-- 🌱 I’m currently learning Javascript, Express JS
+- 🌱 I’m currently learning Javascript, NodeJS, Express JS
 - 📫 How to reach me : ardiantorannu@gmail.com
 
 <!---
