@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardianto Rannu
-- 👀 I'm a Backend Developer (PHP, MySQL, Firestore, Laravel, Express JS)
-- 🌱 I’m currently learning Flutter
+- 👀 I'm a Backend Developer & Flutter Dev
+- 🌱 I’m currently learning Typescript & NestJS
 - 📫 How to reach me : ardiantorannu@gmail.com
 
 <!---
