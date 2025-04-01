@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ardianto Rannu
-- 👀 I'm a Backend Developer (Laravel, NestJS) & Flutter Dev
+- 👀 I'm a Backend Developer (Laravel, NestJS) & Mobile Developer (Flutter)
 - 📫 How to reach me : ardiantorannu@gmail.com
 
 <!---
